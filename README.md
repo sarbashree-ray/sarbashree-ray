@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sarbashree Ray
+# I'm Sarbashree Ray
 
 🎯 **Data Engineer | Generative AI Engineer | MLOps Engineer | Data Scientist**  
 🔧 Solving real-world problems with data, automation, and AI at scale  
