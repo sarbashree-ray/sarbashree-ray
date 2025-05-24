@@ -1,6 +1,6 @@
 # I'm Sarbashree Ray
 
-🎯 **Data Engineer | Generative AI Engineer | MLOps Engineer | Data Scientist**  
+🎯 **Automation | Data Engineer | Generative AI Engineer | MLOps Engineer | Data Scientist**  
 🔧 Solving real-world problems with data, automation, and AI at scale  
 📍 Based in India | 
 
