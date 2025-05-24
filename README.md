@@ -60,5 +60,5 @@ With over **9+ years of experience**, I specialize in building **end-to-end data
 - [🌐 LinkedIn](https://www.linkedin.com/in/sarbashreeray)
 - 📧 Email: sarbashree@gmail.com
 - 🖥️ Portfolio:
-  Medium: https://medium.com/@sarbashree/comprehensive-machine-learning-project-end-to-end-mlops-implementation-1d05aae7b427
+  Medium: https://medium.com/@sarbashree
 
