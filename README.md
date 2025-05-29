@@ -1,5 +1,5 @@
 I'm Sarbashree Ray
-🎯 Automation | Data Engineer | Generative AI Engineer | MLOps Engineer | Quantitative Analyst | Trading Platform Architect
+🎯 Automation | Data Engineer | Generative AI Engineer | MLOps Engineer | Quantitative Analyst | 
 🔧 Solving real-world problems with data, automation, and AI at scale
 📍 Based in India
 
