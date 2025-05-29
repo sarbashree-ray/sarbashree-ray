@@ -1,5 +1,6 @@
 I'm Sarbashree Ray
 🎯 Automation | Data Engineer | Generative AI Engineer | MLOps Engineer | Quantitative Analyst | 
+
 🔧 Solving real-world problems with data, automation, and AI at scale
 📍 Based in India
 
@@ -7,6 +8,7 @@ I'm Sarbashree Ray
 With 9+ years of experience at the intersection of data engineering, cloud computing, and applied AI, I architect and implement production-grade systems across diverse domains including finance, telecom, and AI-driven automation. My work spans everything from building streaming data pipelines and trading algorithms to fine-tuning large language models and designing Agentic AI systems. I combine hands-on engineering with domain understanding to deliver scalable, secure, and insight-driven solutions.
 
 🛠️ Skills & Expertise
+
 🧠 Generative AI & Agentic Systems
 OpenAPI spec generation using T5 / Ollama / LangChain
 
