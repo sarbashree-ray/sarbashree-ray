@@ -46,7 +46,8 @@ EMR, Kinesis, S3, Glue, Redshift, Athena
 
 BigQuery, Databricks, Vertex AI
 
-🧪 Featured Projects
+🧪 Projects
+
 🔍 AI-Powered OpenAPI Generator
 Auto-generates OpenAPI specs from Excel-based FM using T5/Ollama, handles nested schemas, and includes Faker-generated payloads for testing.
 
