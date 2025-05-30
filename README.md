@@ -65,3 +65,8 @@ Developed large-scale data ingestion and analytics pipelines to monitor and opti
 
 🤝 Agentic AI Framework for Enterprise Automation
 Created multi-agent orchestration system using LangGraph and LangChain to automate IT ticket triaging, resolution, and system diagnostics across departments.
+
+- [🌐 LinkedIn](https://www.linkedin.com/in/sarbashreeray)
+- 📧 Email: sarbashree@gmail.com
+- 🖥️ Portfolio:
+  Medium: https://medium.com/@sarbashree
