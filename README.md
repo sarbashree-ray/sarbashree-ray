@@ -48,19 +48,20 @@ BigQuery, Databricks, Vertex AI
 
 🧪 Projects
 
- A Data Observability & Actionability Platform is an integrated solution that provides end-to-end visibility into the health and quality of data across an organization’s pipelines, and empowers automated (or semi-automated) responses when anomalies arise. In essence, it’s not just about passively monitoring metrics; it’s about surfacing actionable insights—alerts, root-cause analysis, and remediation steps—to ensure high data reliability, trust, and swift resolution. Below is a structured definition of such a project, covering objectives, functional requirements, system architecture, components, technology choices, and a high-level implementation roadmap.
+•  Data Observability & Actionability Platform
+Built a unified data health platform with end-to-end pipeline instrumentation, real-time anomaly detection (batch + streaming), automated remediation playbooks, and SLA-based alerting to ensure trusted data delivery at scale.
 
-📊 Financial Data Quality & Alerting System
-Validates and monitors financial KPIs using PySpark, AWS, and Great Expectations—detects anomalies in streaming financial data with alert integration.
+• Financial Data Quality & Alerting System
+Developed PySpark–AWS streaming pipelines with Great Expectations to validate financial KPIs in real time, detect distribution shifts or schema drifts, and trigger Slack/SNS alerts for immediate remediation.
 
-📈 Quantitative Trading Signal Engine
-Built a real-time backtesting and alpha engine using historical tick data and ML models—integrated with a trading platform for execution simulation.
+• Quantitative Trading Signal Engine
+Engineered a high-throughput backtesting framework using historical tick data and machine learning models, integrating live simulations to generate and evaluate alpha signals before execution.
 
-📡 Telecom Network Analytics Platform
-Developed large-scale data ingestion and analytics pipelines to monitor and optimize telecom network usage, QoS metrics, and fraud detection.
+• Telecom Network Analytics Platform
+Implemented large-scale Kafka-Spark ingest and AWS Lakehouse analytics to monitor network QoS, optimize capacity utilization, and surface fraud anomalies with custom alert workflows.
 
-🤝 Agentic AI Framework for Enterprise Automation
-Created multi-agent orchestration system using LangGraph and LangChain to automate IT ticket triaging, resolution, and system diagnostics across departments.
+• Agentic AI Framework for Enterprise Automation
+Created a multi-agent orchestration system using LangGraph and LangChain to autonomously triage IT tickets, perform diagnostics, and resolve incidents across telecom and finance domains.
 
 - [🌐 LinkedIn](https://www.linkedin.com/in/sarbashreeray)
 - 📧 Email: sarbashree@gmail.com
