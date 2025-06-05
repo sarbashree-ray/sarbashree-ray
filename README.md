@@ -48,12 +48,6 @@ BigQuery, Databricks, Vertex AI
 
 🧪 Projects
 
-🔍 AI-Powered OpenAPI Generator
-Auto-generates OpenAPI specs from Excel-based FM using T5/Ollama, handles nested schemas, and includes Faker-generated payloads for testing.
-
-🤖 LLM-Driven API Automation Framework
-End-to-end automation for REST/SOAP service testing using LLMs: request/response validation, test case generation, and database assertions.
-
 📊 Financial Data Quality & Alerting System
 Validates and monitors financial KPIs using PySpark, AWS, and Great Expectations—detects anomalies in streaming financial data with alert integration.
 
