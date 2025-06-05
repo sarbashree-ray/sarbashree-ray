@@ -47,6 +47,7 @@ EMR, Kinesis, S3, Glue, Redshift, Athena
 BigQuery, Databricks, Vertex AI
 
 🧪 Projects
+A Data Observability & Actionability Platform is an integrated solution that provides end-to-end visibility into the health and quality of data across an organization’s pipelines, and empowers automated (or semi-automated) responses when anomalies arise. In essence, it’s not just about passively monitoring metrics; it’s about surfacing actionable insights—alerts, root-cause analysis, and remediation steps—to ensure high data reliability, trust, and swift resolution. Below is a structured definition of such a project, covering objectives, functional requirements, system architecture, components, technology choices, and a high-level implementation roadmap.
 
 📊 Financial Data Quality & Alerting System
 Validates and monitors financial KPIs using PySpark, AWS, and Great Expectations—detects anomalies in streaming financial data with alert integration.
